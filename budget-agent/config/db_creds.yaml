@@ -1,0 +1,9 @@
+FUELASSET: {db: fuelAsset, host: fuelasset.db.fuel451.com, password: y1U$hcSPVsQW,
+  port: 3306, user: jasonhsiao}
+FUELASSET_DEV: {db: fuelAsset, host: 35.226.210.107, password: '123', port: 3306,
+  user: jasonhsiao}
+FUELBIDDING: {db: fuelData, host: 162.222.180.40, password: a0X@vHLsMzVaz, port: 3306,
+  user: jasonhsiao}
+GMAIL_API: {email: jhsiao@fuelx.com, password: osnjggckmfjafhlq}
+REDSHIFT: {db: bids, host: ignite-bid-cluster.ce0ui3hfe3ue.us-west-2.redshift.amazonaws.com,
+  password: r8MiC08x07@Z, port: '5439', user: jasonhsiao}
