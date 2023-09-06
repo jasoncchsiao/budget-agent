@@ -64,16 +64,16 @@ class MySQLConnection:
 import getpass
 import pandas as pd
 from datetime import datetime
-dbname = 'bids'
-host1 = 'ignite-bid-cluster.ce0ui3hfe3ue.us-west-2.redshift.amazonaws.com'
-port1 = '5439'
-user = 'jasonhsiao'
-password1 = 'r8MiC08x07@Z'
-db = 'fuelAsset'
-host2 = 'fuelasset.db.fuel451.com'
-port2 = 3306
-user = 'jasonhsiao'
-password2 = 'y1U$hcSPVsQW'
+dbname = 'xxxxxx'
+host1 = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+port1 = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+user = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+password1 = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+db = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+host2 = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+port2 = xxxxxxxxxxxxxxxxxxxxxxxxx
+user = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+password2 = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
 
 def get_multiple_tbs():
     """
