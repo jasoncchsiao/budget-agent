@@ -1,8 +1,5 @@
 Hey folks! Welcome to budget-agent project repo.
 
-The completed project can be seen at
-https://github.com/fuelx/budget-agent
-
 The scope of this project aims to calibrate the very next day pacing and performance based on historical data
 
 The various files in this project are to set up your environment, database connection, and etc to help you run the code.
